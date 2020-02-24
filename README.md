@@ -5,4 +5,3 @@ TeamShinn:
 Shinn
 Travis
 Emily
-Emily
